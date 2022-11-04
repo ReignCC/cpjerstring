@@ -26,4 +26,5 @@ int main (){
 	printf("Ascending order of the string: %s", str); //change this too if you need descending order so your teacher won't notice
 	
 	return 0;
+	
 }
